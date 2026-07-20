@@ -1,5 +1,3 @@
-# P2P
-
 # Procurement Analytics using Databricks & Power BI
 
 ## Project Overview
@@ -9,6 +7,8 @@ This project demonstrates an end-to-end Procurement Analytics solution built usi
 The objective is to simulate an enterprise-grade data engineering and business intelligence solution for the Procure-to-Pay (P2P) business process.
 
 The project focuses on industry-standard coding practices, reusable ETL components, data quality, audit logging, and interactive Power BI dashboards.
+
+---
 
 # Business Objective
 
@@ -25,6 +25,8 @@ This solution enables business users to:
 - Improve Data Quality
 - Detect Duplicate Transactions
 - Improve Supplier Performance
+
+---
 
 # Project Architecture
 
@@ -50,6 +52,8 @@ This solution enables business users to:
           Procurement Dashboard
 ```
 
+---
+
 # Technology Stack
 
 | Technology | Purpose |
@@ -61,6 +65,8 @@ This solution enables business users to:
 | Power BI Desktop | Reporting |
 | GitHub | Version Control |
 | SQL | Data Validation |
+
+---
 
 # Project Folder Structure
 
@@ -299,7 +305,7 @@ This project demonstrates practical experience with:
 
 # Author
 
-**V R Mutyala**
+**Your Name**
 
 Power BI Developer | Azure Data Engineer | Databricks | PySpark | SQL | Microsoft Fabric
 
@@ -308,4 +314,3 @@ Power BI Developer | Azure Data Engineer | Databricks | PySpark | SQL | Microsof
 # License
 
 This project is intended for educational and portfolio purposes.
-
