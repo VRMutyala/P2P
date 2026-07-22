@@ -34,6 +34,9 @@ This solution enables business users to:
                 CSV Files
                      │
                      ▼
+                Catalog (Volume)
+                     |
+                     ▼
              Bronze Layer
           (Raw Delta Tables)
                      │
