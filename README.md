@@ -125,6 +125,8 @@ Tables
 - bronze_goods_receipts
 - bronze_invoices
 - bronze_payments
+  
+<img width="1918" height="386" alt="image" src="https://github.com/user-attachments/assets/752f17c9-ff88-4f2c-8c4c-da53cd8ab9ba" />
 
 ---
 
