@@ -54,6 +54,7 @@ This solution enables business users to:
                      ▼
           Procurement Dashboard
 ```
+<img width="1912" height="673" alt="image" src="https://github.com/user-attachments/assets/00038db9-e959-4b31-a4ea-884731d20e86" />
 
 ---
 
