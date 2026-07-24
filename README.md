@@ -101,6 +101,7 @@ Procurement-Analytics/
 ```
 
 ---
+<img width="1917" height="555" alt="image" src="https://github.com/user-attachments/assets/0ff211ee-ba86-4304-845f-3817e6a19f93" />
 
 # Medallion Architecture
 
