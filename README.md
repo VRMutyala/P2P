@@ -1,4 +1,4 @@
-# Procurement Analytics using Databricks & Power BI
+# Procurement Analytics using Databricks & Power BI  (IN PROGRESS.....LOOOOOADING)
 
 ## Project Overview
 
@@ -34,6 +34,9 @@ This solution enables business users to:
                 CSV Files
                      │
                      ▼
+                Catalog (Volume)
+                     |
+                     ▼
              Bronze Layer
           (Raw Delta Tables)
                      │
@@ -51,6 +54,7 @@ This solution enables business users to:
                      ▼
           Procurement Dashboard
 ```
+<img width="1912" height="673" alt="image" src="https://github.com/user-attachments/assets/00038db9-e959-4b31-a4ea-884731d20e86" />
 
 ---
 
@@ -98,6 +102,7 @@ Procurement-Analytics/
 ```
 
 ---
+<img width="1917" height="555" alt="image" src="https://github.com/user-attachments/assets/0ff211ee-ba86-4304-845f-3817e6a19f93" />
 
 # Medallion Architecture
 
@@ -121,6 +126,8 @@ Tables
 - bronze_goods_receipts
 - bronze_invoices
 - bronze_payments
+  
+<img width="1918" height="386" alt="image" src="https://github.com/user-attachments/assets/752f17c9-ff88-4f2c-8c4c-da53cd8ab9ba" />
 
 ---
 
