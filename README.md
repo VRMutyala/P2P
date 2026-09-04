@@ -4,7 +4,7 @@
 
 This project demonstrates an end-to-end Procurement Analytics solution built using **Databricks**, **PySpark**, **Delta Lake**, and **Power BI** following the **Medallion Architecture (Bronze → Silver → Gold)**.
 
-The objective is to simulate an enterprise-grade data engineering and business intelligence solution for the Procure-to-Pay (P2P) business process.
+The objective is to simulate an enterprise-grade data engineering and business intelligence solution for the Procure-to-Pay (P2P) business process.FX rates are static, approximate values as of [date], used for demonstration purposes. In production, this would be sourced from a live FX rate API (e.g., ECB, OANDA) or a daily rate feed joined on invoice_date."
 
 The project focuses on industry-standard coding practices, reusable ETL components, data quality, audit logging, and interactive Power BI dashboards.
 
